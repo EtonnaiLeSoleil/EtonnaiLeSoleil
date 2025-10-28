@@ -2,6 +2,12 @@
 🔭 I’m currently working on a C chat project with authentication for fun.<br>🤝 I’m hoping to find an internship and would appreciate some help.<br>🌱 I’m currently a CS student<br>🐧 Fun fact: Penguins “propose” to their mates with a pebble!<br>     When a male penguin finds a smooth, beautiful stone, he presents it to a female as a gift. If she accepts it, they become a couple — and sometimes even use the pebble to start building their nest together. 💍🪨
 
 
+
+<p align="center">
+  <img src="https://tenor.com/fr/view/pingu-work-out-treadmill-tired-gif-15084400638827902947" alt="Demo du projet" width="400"/>
+</p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoine-gouet7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antoine.gouet0706@hotmail.com) 
 
