@@ -3,11 +3,6 @@
 
 
 
-<p align="center">
-  <img src="https://tenor.com/fr/view/pingu-work-out-treadmill-tired-gif-15084400638827902947" alt="Demo du projet" width="400"/>
-</p>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoine-gouet7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antoine.gouet0706@hotmail.com) 
 
