@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a C chat project with authentication for fun.<br>🤝 I’m hoping to find an internship and would appreciate some help.<br>🌱 I’m currently a CS student<br>🐧 Fun fact: Penguins “propose” to their mates with a pebble!<br>     When a male penguin finds a smooth, beautiful stone, he presents it to a female as a gift. If she accepts it, they become a couple — and sometimes even use the pebble to start building their nest together. 💍🪨
+🔭 I’m currently working on a C chat project with authentication for fun.<br>🤝 I’m hoping to find an internship and would appreciate any help.<br>🌱 I’m currently a CS student<br>🐧 Fun fact: Penguins “propose” to their mates with a pebble!<br>     When a male penguin finds a smooth, beautiful stone, he presents it to a female as a gift. If she accepts it, they become a couple — and sometimes even use the pebble to start building their nest together. 💍🪨
 
 
 
